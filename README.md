@@ -1,3 +1,7 @@
+# Status: Archived 
+
+No longer maintained
+
 # Data-driven hyperparameter optimization
 
 This repository contains code for **Data-driven hyper-optimization** *JetBrains Research*
